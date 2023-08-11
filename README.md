@@ -29,4 +29,4 @@ Previously ==Highlighting== did not work.
 
 Sub~script~
 
-Super^script^
+Super^(script)^
