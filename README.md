@@ -18,16 +18,15 @@
 
 ---
 
-[here is my link](https://www.markdownguide.org/cheat-sheet/)
+[the link](https://www.markdownguide.org/cheat-sheet/)
 
 - [x] task
 - [ ] list
 
 Emoji 😂 😢
 
-==Highlighting==
+Previously ==Highlighting== did not work.
 
-Sub~script
+Sub~script~
 
-Super^script
-
+Super^script^
